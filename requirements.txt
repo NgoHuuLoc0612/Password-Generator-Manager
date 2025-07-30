@@ -1,0 +1,7 @@
+cryptography
+pyperclip
+requests
+# Development dependencies (optional)
+pytest>=7.4.0  # For testing
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Linting
