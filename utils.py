@@ -24,7 +24,7 @@ def display_banner():
     ║                                                                  ║
     ║               PASSWORD GENERATOR & MANAGER                       ║
     ║                                                                  ║
-    ║                    Secure • Simple • Reliable                    ║
+    ║                Secure • Simple • Reliable                        ║
     ║                                                                  ║
     ╚══════════════════════════════════════════════════════════════════╝
     """
