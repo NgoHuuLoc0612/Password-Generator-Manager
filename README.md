@@ -152,7 +152,7 @@ pip install -r requirements.txt
 1. **Clone Repository:**
    ```bash
    git clone <repository-url>
-   cd password-manager
+   cd Password-Generator-Manager
    ```
 
 2. **Create Virtual Environment:**
